@@ -53,7 +53,7 @@ public class Producto {
         return codigoBarras;
     }
 
-    public void setCodigoBarras(String codigoBarras) {
+    public void setCodigoBarras(String codigoBarras)     {
         this.codigoBarras = codigoBarras;
     }
 
